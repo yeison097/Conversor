@@ -35,13 +35,13 @@
  <p>Una vez seleccionado la opcion de Conversion de moneda, la cual estara activa por defecto, mediante un combobox se podra seleccionar el cambio al cual se requiere realizar la conversion, ya seleccionada la opcion, de dispone de dos JTextField los cuales son son cajas de texto en donde unicamente se recibiran datos en la caja numero uno "Ingrese el valor a convertir", en donde no se dispone de un boton convertir, pero si con la funcionalidad de convertir al momento instantaneo en que se detecte un numero en dicha caja de texto, es importante recalcal que permite unicamnete la lectura de valores numericos (0-1-2-3-4-5-6-7-8-9 y .), finalmente se dispone de un panel en el apartado inferior el cual informara el valor que tomara su entrada de datos en las diferentes monedas existentes en el sistema.</p>
 <div style="text-align: center;">
   <figure style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/yeison097/Conversor/master/1.png" alt="Conversor 1" style="max-width: 50%;">
-    <figcaption>imagen 1</figcaption>
+    <img src="https://raw.githubusercontent.com/yeison097/Conversor/master/1.png" alt="Conversor 1" style="max-width: 20%;">
+  
   </figure>
 
   <figure style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/yeison097/Conversor/master/2.png" alt="Conversor 2" style="max-width: 50%;">
-    <figcaption>imagen 2</figcaption>
+    <img src="https://raw.githubusercontent.com/yeison097/Conversor/master/2.png" alt="Conversor 2" style="max-width: 20%;">
+   
   </figure>
 </div>
 
