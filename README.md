@@ -13,7 +13,7 @@
    <p>
     Seguidamente puede utilizar el entorno de desarrollo (IDE) de su preferencia, bastara con importar el proyecto y proceder a ejecutar.
    </p>
- <ul> 
+ <ul>  
   <li>NetBeans</li>
   <li>IntelliJ IDEA</li>
   <li>Eclipse3</li>
