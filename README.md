@@ -14,9 +14,10 @@
     Seguidamente puede utilizar el entorno de desarrollo (IDE) de su preferencia.
    </p>
    <ol>
-  <li>Elemento 1</li>
-  <li>Elemento 2</li>
-  <li>Elemento 3</li>
+  <li>NetBeans</li>
+  <li>IntelliJ IDEA</li>
+  <li>Eclipse3</li>
+  <li>Visual Studio Code</li>
 </ol>
   </li>
   <li>
