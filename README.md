@@ -44,7 +44,7 @@
 <img src="https://raw.githubusercontent.com/yeison097/Conversor/master/3.png" alt="Conversor" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage">
   <img src="https://raw.githubusercontent.com/yeison097/Conversor/master/4.png" alt="Conversor" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage">
   </div>
- </p>
+ </p> 
   <h2 align="center">Autor</h2>
  <div align= "center">
 
