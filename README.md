@@ -38,6 +38,12 @@
   <img src="https://raw.githubusercontent.com/yeison097/Conversor/master/2.png" alt="Conversor" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage">
   </div>
   <h3 align="center">Conversion Temperatura</h3>
- <p> lorem ipsum</p>
+ <p> 
+ De igual manera el conversor de unidades de temperatura, cuanta con la misma funcionalidad del conversor de moneda.
+  <div align= "center">
+<img src="https://raw.githubusercontent.com/yeison097/Conversor/master/3.png" alt="Conversor" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage">
+  <img src="https://raw.githubusercontent.com/yeison097/Conversor/master/4.png" alt="Conversor" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage">
+  </div>
+ </p>
   <h2 align="center">Version</h2>
  <p> lorem ipsum</p>
