@@ -7,7 +7,7 @@
   <h2 align="center">Como Utilizar</h2>
   <ol>
   <li>
-   <p>En primer lugar se debe descargar el repositorio el cual contiene el codigo fuente y el instuctivo de como se utiliza, en el siguiente link <a href="https://github.com/yeison097/Conversor.git">Descargar</a></p>
+   <p>En primer lugar se debe descargar el repositorio el cual contiene el codigo fuente y el instuctivo de como se utiliza, en el siguiente link <a href="https://github.com/yeison097/Conversor.git">Descargar</a> </p>
   </li>
   <li>
    <p></p>
