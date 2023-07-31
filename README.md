@@ -10,7 +10,21 @@
    <p>En primer lugar se debe descargar el repositorio el cual contiene el codigo fuente y el instuctivo de como se utiliza, en el siguiente link <a href="https://github.com/yeison097/Conversor.git">Descargar</a> </p>
   </li>
   <li>
-   <p></p>
+   <p>
+    Seguidamente puede utilizar el entorno de desarrollo (IDE) de su preferencia.
+    <ol>
+     <li>
+      
+     </li>
+     <li>
+      
+     </li>
+     <li>
+      
+     </li>
+    </ol>
+    
+   </p>
   </li>
   <li>
    <p></p>
