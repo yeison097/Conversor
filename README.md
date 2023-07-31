@@ -48,5 +48,5 @@
   <h2 align="center">Autor</h2>
  <div align= "center"; display:block>
 <a href="https://github.com/yeison097">GitHub</a>
-  <a href="https://www.linkedin.com/in/yeison-stiven-valencia-hurtatis-469470266/)https://www.linkedin.com/in/yeison-stiven-valencia-hurtatis-469470266/">Linkedln</a>
+  <a href="https://www.linkedin.com/in/yeison-stiven-valencia-hurtatis-469470266/">Linkedln</a>
   </div>
