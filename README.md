@@ -1,2 +1,2 @@
- <h1 style="text-align: center;">               Conversor de Moneda y Temperatura</h1>
+ <h1 align="center">Conversor de Moneda y Temperatura</h1>
 
