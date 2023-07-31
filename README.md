@@ -48,7 +48,7 @@
   <h2 align="center">Autor</h2>
  <div align= "center"; display:block>
   
-  <img src="https://github.com/yeison097/Conversor/blob/master/test/IMG_2784.JPG" alt="Conversor" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage">
+  <img src="https://github.com/yeison097/Conversor/blob/master/test/IMG_2784.JPG" alt="Conversor" style="max-width: 25%; display: inline-block;" data-target="animated-image.originalImage">
   
 <a href="https://github.com/yeison097">GitHub</a>
   <a href="https://www.linkedin.com/in/yeison-stiven-valencia-hurtatis-469470266/">Linkedln</a>
