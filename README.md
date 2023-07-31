@@ -4,7 +4,7 @@
   </div> 
  <h2 align="center">Descripcion del Proyecto</h2>
  <p> Es una aplicacion la cual permite realizar la conversion de la moneda oficial de la republica de Colombia a los principales cambios de moneda internacional, de igual manera permite la transicion de USD, EUR, GBP, JPY y KRW a COP (Peso Colombiano). Otra de sus funcionalidades es la conversion de la unidad de temperatura K°, C° y F°, ademas de visualizar no solo la unidad seleccionada sino todas las unidades relacionadas.</p>
-  <h2 align="center">Como Utilizar</h2>
+  <h2 align="center">Como Utilizar</h2> 
   <ol> 
   <li>
    <p>En primer lugar se debe descargar el repositorio el cual contiene el codigo fuente y el instuctivo de como se utiliza, en el siguiente link <a href="https://github.com/yeison097/Conversor.git">Descargar</a> </p>
