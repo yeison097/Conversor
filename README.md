@@ -11,7 +11,7 @@
   </li>
   <li>   
    <p>
-    Seguidamente puede utilizar el entorno de desarrollo (IDE) de su preferencia.
+    Seguidamente puede utilizar el entorno de desarrollo (IDE) de su preferencia, bastara con importar el proyecto y proceder a ejecutar el proyecto.
    </p>
  <ul> 
   <li>NetBeans</li>
