@@ -45,5 +45,7 @@
   <img src="https://raw.githubusercontent.com/yeison097/Conversor/master/4.png" alt="Conversor" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage">
   </div>
  </p>
-  <h2 align="center">Version</h2>
- <p> lorem ipsum</p>
+  <h2 align="center">Autor</h2>
+ <div align= "center">
+
+  </div>
