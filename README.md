@@ -11,7 +11,7 @@
   </li>
   <li>   
    <p>
-    Seguidamente puede utilizar el entorno de desarrollo (IDE) de su preferencia, bastara con importar el proyecto y proceder a ejecutar el proyecto.
+    Seguidamente puede utilizar el entorno de desarrollo (IDE) de su preferencia, bastara con importar el proyecto y proceder a ejecutar.
    </p>
  <ul> 
   <li>NetBeans</li>
@@ -21,10 +21,14 @@
 </ul>
   </li>
   <li>
-   <p></p>
+   <p>
+       Se debe contar con una version superior de java 1.7, se puede visualizar la version mediante el comando <em> java--version </em> en la consola de comandos (CMD).
+   </p>
   </li>
   <li>
-   <p></p>
+   <p>
+    Por ultimo, al ejecutar la aplicacion se puede visualizar los dos entornos de conversion mediante una imagen representativo de cada conversor.
+   </p>
   </li>
  </ol>
 
